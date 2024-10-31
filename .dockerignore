@@ -1,0 +1,11 @@
+# Binaries
+bin/
+
+# Local dependencies
+vendor/
+
+# OS-specific files
+*.DS_Store
+
+# Go build cache
+pkg/
